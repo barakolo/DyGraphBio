@@ -21,7 +21,7 @@ Presenting here, for the first time, a dynamic version for this algorithm (under
 ## Usage
 The library is easy to use. Just compile the given files and you're good to go!
 The main.cpp is an example file of usage.
-
+The makefile contains an example for compiling the tests executable.
 
 ### Simple propagation
 ```
@@ -44,3 +44,13 @@ g.del_node(i, scores);
 ```
 This will remove the i'th node and re-calculate the propagation values into scores.
 
+### Input graphs
+GRAPH_PATH should refer to graph should be parsed and used.
+syntax is csv-file where each-row represents an edge, e.g:
+Gene1_NAME\tGene1_ID\tGene2_NAME\tGene2_ID\tEdge_Weight\tComment
+Gene123_NAME\tGene123_ID\tGene21_NAME\tGene21_ID\tEdge_Weight\tComment
+...
+
+### Various Updates
+As for May 18', it's best to use the linux version and compile its tests.cpp.
+Use input graphs as wanted.
