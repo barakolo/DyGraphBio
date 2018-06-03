@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/barakolo/dygraph">
+  <a href="https://github.com/barakolo/dygraph_bio">
     <img src="images/propagation.png" alt="prop"></a>
   <br>
 </h1>
