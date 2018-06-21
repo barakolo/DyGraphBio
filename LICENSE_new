@@ -1,0 +1,10 @@
+###############################################################################################################
+#   DynamicFP: A dynamic algorithm for network propagation.
+#              The algorithm supports both "weighted degree" graphs as well as "symmetric normalziation"
+#
+#   Authors: Barak Sternberg (barakolo@gmail.com), Tel-Aviv university
+#            Roded Sharan (roded@post.tau.ac.il), Tel-Aviv University
+#
+#   This code is released only for research purposes in universities.
+#   To use this code for commericial purposes, contact Barak Sternberg or Roded Sharan.
+##############################################################################################################
